@@ -17,7 +17,6 @@ This project analyzes student feedback collected after campus events such as wor
 - **Google Colab** – Cloud-based notebook
 - **pandas** – Data manipulation and cleaning  
 - **matplotlib/seaborn** – For visualizing satisfaction trends  
-- *(Optionally)* `TextBlob` or `VADER` for sentiment analysis (if comment column exists)
 
 ---
 
